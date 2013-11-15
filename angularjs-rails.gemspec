@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-require 'versionomy'
+#require 'versionomy'
 require File.expand_path('../lib/angularjs-rails/version', __FILE__)
 
 Gem::Specification.new do |s|
